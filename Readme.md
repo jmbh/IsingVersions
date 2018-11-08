@@ -1,1 +1,1 @@
-These R-files allow to reproduce the analyses shown in Figure 1 and 2 in the paper XXX.
+These R-files allow to reproduce the analyses shown in Figure 1 and 2 in the paper https://arxiv.org/abs/1811.02916.
